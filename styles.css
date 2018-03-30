@@ -1,0 +1,11 @@
+h5 {
+    width: 350px;
+    color: black;
+}
+
+img {
+    width: 150px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 50%;
+}
