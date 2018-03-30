@@ -1,5 +1,3 @@
-# johnngo.github.io
-
-## Test Website
+## Website
 
 ### https://johnngo.github.io/
